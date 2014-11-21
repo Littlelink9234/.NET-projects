@@ -1,0 +1,6 @@
+c:\users\jason.carvalho.em\documents\visual studio 2010\Projects\Marbles\Marbles\obj\x86\Debug\Marbles.Properties.Resources.resources
+c:\users\jason.carvalho.em\documents\visual studio 2010\Projects\Marbles\Marbles\obj\x86\Debug\Marbles.csproj.GenerateResource.Cache
+c:\users\jason.carvalho.em\documents\visual studio 2010\Projects\Marbles\Marbles\bin\Debug\Marbles.exe
+c:\users\jason.carvalho.em\documents\visual studio 2010\Projects\Marbles\Marbles\bin\Debug\Marbles.pdb
+c:\users\jason.carvalho.em\documents\visual studio 2010\Projects\Marbles\Marbles\obj\x86\Debug\Marbles.exe
+c:\users\jason.carvalho.em\documents\visual studio 2010\Projects\Marbles\Marbles\obj\x86\Debug\Marbles.pdb
