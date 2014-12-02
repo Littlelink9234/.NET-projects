@@ -1,0 +1,9 @@
+c:\users\jason\documents\visual studio 2012\Projects\BuildAHouse\BuildAHouse\bin\Debug\BuildAHouse.exe.config
+c:\users\jason\documents\visual studio 2012\Projects\BuildAHouse\BuildAHouse\obj\Debug\BuildAHouse.csprojResolveAssemblyReference.cache
+c:\users\jason\documents\visual studio 2012\Projects\BuildAHouse\BuildAHouse\obj\Debug\BuildAHouse.Form1.resources
+c:\users\jason\documents\visual studio 2012\Projects\BuildAHouse\BuildAHouse\obj\Debug\BuildAHouse.Properties.Resources.resources
+c:\users\jason\documents\visual studio 2012\Projects\BuildAHouse\BuildAHouse\obj\Debug\BuildAHouse.csproj.GenerateResource.Cache
+c:\users\jason\documents\visual studio 2012\Projects\BuildAHouse\BuildAHouse\bin\Debug\BuildAHouse.exe
+c:\users\jason\documents\visual studio 2012\Projects\BuildAHouse\BuildAHouse\bin\Debug\BuildAHouse.pdb
+c:\users\jason\documents\visual studio 2012\Projects\BuildAHouse\BuildAHouse\obj\Debug\BuildAHouse.exe
+c:\users\jason\documents\visual studio 2012\Projects\BuildAHouse\BuildAHouse\obj\Debug\BuildAHouse.pdb

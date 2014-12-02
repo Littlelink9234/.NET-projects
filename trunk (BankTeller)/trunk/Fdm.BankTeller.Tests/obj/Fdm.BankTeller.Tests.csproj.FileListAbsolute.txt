@@ -1,0 +1,8 @@
+C:\Lida Weng\academy-dotnet\bank-teller\phase1\trunk\Fdm.BankTeller.Tests\obj\Debug\ResolveAssemblyReference.cache
+C:\Lida Weng\academy-dotnet\bank-teller\phase1\trunk\Fdm.BankTeller.Tests\bin\Debug\Fdm.BankTeller.Tests.dll
+C:\Lida Weng\academy-dotnet\bank-teller\phase1\trunk\Fdm.BankTeller.Tests\bin\Debug\Fdm.BankTeller.Tests.pdb
+C:\Lida Weng\academy-dotnet\bank-teller\phase1\trunk\Fdm.BankTeller.Tests\bin\Debug\Fdm.BankTeller.Main.dll
+C:\Lida Weng\academy-dotnet\bank-teller\phase1\trunk\Fdm.BankTeller.Tests\bin\Debug\nunit.framework.dll
+C:\Lida Weng\academy-dotnet\bank-teller\phase1\trunk\Fdm.BankTeller.Tests\bin\Debug\Fdm.BankTeller.Main.pdb
+C:\Lida Weng\academy-dotnet\bank-teller\phase1\trunk\Fdm.BankTeller.Tests\obj\Debug\Fdm.BankTeller.Tests.dll
+C:\Lida Weng\academy-dotnet\bank-teller\phase1\trunk\Fdm.BankTeller.Tests\obj\Debug\Fdm.BankTeller.Tests.pdb

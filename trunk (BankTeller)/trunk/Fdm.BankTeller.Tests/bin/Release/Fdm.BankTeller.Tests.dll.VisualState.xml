@@ -1,0 +1,16 @@
+<?xml version="1.0" encoding="utf-8"?>
+<VisualState xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xmlns:xsd="http://www.w3.org/2001/XMLSchema" ShowCheckBoxes="false">
+  <TopNode>[0-1027]Fdm</TopNode>
+  <SelectedNode>[0-1001]Fdm.BankTeller.Tests.StorageCollectionTests.TestCreateAndReadAccount</SelectedNode>
+  <ExcludeCategories>false</ExcludeCategories>
+  <Nodes>
+    <Node UniqueName="[0-1026]\\fdm-mail02\home\jason.carvalho\Documents\C-Sharp stuff\trunk (BankTeller - Phase 1)\trunk\Fdm.BankTeller.Tests\bin\Release\Fdm.BankTeller.Tests.dll" Expanded="true" />
+    <Node UniqueName="[0-1027]Fdm" Expanded="true" />
+    <Node UniqueName="[0-1028]Fdm.BankTeller" Expanded="true" />
+    <Node UniqueName="[0-1029]Fdm.BankTeller.Tests" Expanded="true" />
+    <Node UniqueName="[0-1021]Fdm.BankTeller.Tests.AccountManagerTests" Expanded="true" />
+    <Node UniqueName="[0-1006]Fdm.BankTeller.Tests.AccountTests" Expanded="true" />
+    <Node UniqueName="[0-1016]Fdm.BankTeller.Tests.BankControllerTests" Expanded="true" />
+    <Node UniqueName="[0-1000]Fdm.BankTeller.Tests.StorageCollectionTests" Expanded="true" />
+  </Nodes>
+</VisualState>

@@ -1,0 +1,9 @@
+c:\users\jason\documents\visual studio 2012\Projects\BeehiveManagementSystem\BeehiveManagementSystem\bin\Debug\BeehiveManagementSystem.exe.config
+c:\users\jason\documents\visual studio 2012\Projects\BeehiveManagementSystem\BeehiveManagementSystem\obj\Debug\BeehiveManagementSystem.csprojResolveAssemblyReference.cache
+c:\users\jason\documents\visual studio 2012\Projects\BeehiveManagementSystem\BeehiveManagementSystem\obj\Debug\BeehiveManagementSystem.Properties.Resources.resources
+c:\users\jason\documents\visual studio 2012\Projects\BeehiveManagementSystem\BeehiveManagementSystem\obj\Debug\BeehiveManagementSystem.csproj.GenerateResource.Cache
+c:\users\jason\documents\visual studio 2012\Projects\BeehiveManagementSystem\BeehiveManagementSystem\bin\Debug\BeehiveManagementSystem.exe
+c:\users\jason\documents\visual studio 2012\Projects\BeehiveManagementSystem\BeehiveManagementSystem\bin\Debug\BeehiveManagementSystem.pdb
+c:\users\jason\documents\visual studio 2012\Projects\BeehiveManagementSystem\BeehiveManagementSystem\obj\Debug\BeehiveManagementSystem.exe
+c:\users\jason\documents\visual studio 2012\Projects\BeehiveManagementSystem\BeehiveManagementSystem\obj\Debug\BeehiveManagementSystem.pdb
+C:\Users\Jason\Documents\Visual Studio 2012\Projects\BeehiveManagementSystem\BeehiveManagementSystem\obj\Debug\BeehiveManagementSystem.Form2.resources

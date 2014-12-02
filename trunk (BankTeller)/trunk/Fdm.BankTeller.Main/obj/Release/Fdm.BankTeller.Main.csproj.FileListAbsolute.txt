@@ -1,0 +1,16 @@
+\\fdm-mail02\home\jason.carvalho\Documents\C-Sharp stuff\trunk (BankTeller - Phase 1)\trunk\Fdm.BankTeller.Main\bin\Release\Fdm.BankTeller.Main.dll
+\\fdm-mail02\home\jason.carvalho\Documents\C-Sharp stuff\trunk (BankTeller - Phase 1)\trunk\Fdm.BankTeller.Main\bin\Release\Fdm.BankTeller.Main.pdb
+\\fdm-mail02\home\jason.carvalho\Documents\C-Sharp stuff\trunk (BankTeller - Phase 1)\trunk\Fdm.BankTeller.Main\obj\Release\ResolveAssemblyReference.cache
+\\fdm-mail02\home\jason.carvalho\Documents\C-Sharp stuff\trunk (BankTeller - Phase 1)\trunk\Fdm.BankTeller.Main\obj\Release\Fdm.BankTeller.Main.dll
+\\fdm-mail02\home\jason.carvalho\Documents\C-Sharp stuff\trunk (BankTeller - Phase 1)\trunk\Fdm.BankTeller.Main\obj\Release\Fdm.BankTeller.Main.pdb
+\\fdm-mail02\home\jason.carvalho\Documents\C-Sharp stuff\trunk (BankTeller - Phase 1)\trunk\Fdm.BankTeller.Main\bin\Release\nunit.framework.dll
+\\fdm-mail02\home\jason.carvalho\Documents\C-Sharp stuff\trunk (BankTeller - Phase 1)\trunk\Fdm.BankTeller.Main\bin\Release\nunit.framework.xml
+\\fdm-mail02\home\jason.carvalho\Documents\C-Sharp stuff\trunk (BankTeller - Phase 1)\trunk\Fdm.BankTeller.Main\obj\Release\Fdm.BankTeller.Main.AccountCreatedForm.resources
+\\fdm-mail02\home\jason.carvalho\Documents\C-Sharp stuff\trunk (BankTeller - Phase 1)\trunk\Fdm.BankTeller.Main\obj\Release\Fdm.BankTeller.Main.AccountInfoForm.resources
+\\fdm-mail02\home\jason.carvalho\Documents\C-Sharp stuff\trunk (BankTeller - Phase 1)\trunk\Fdm.BankTeller.Main\obj\Release\Fdm.BankTeller.Main.CreateAccountForm.resources
+\\fdm-mail02\home\jason.carvalho\Documents\C-Sharp stuff\trunk (BankTeller - Phase 1)\trunk\Fdm.BankTeller.Main\obj\Release\Fdm.BankTeller.Main.HomeScreenForm.resources
+\\fdm-mail02\home\jason.carvalho\Documents\C-Sharp stuff\trunk (BankTeller - Phase 1)\trunk\Fdm.BankTeller.Main\obj\Release\Fdm.BankTeller.Main.MainMenuForm.resources
+\\fdm-mail02\home\jason.carvalho\Documents\C-Sharp stuff\trunk (BankTeller - Phase 1)\trunk\Fdm.BankTeller.Main\obj\Release\Fdm.BankTeller.Main.TransactionForm.resources
+\\fdm-mail02\home\jason.carvalho\Documents\C-Sharp stuff\trunk (BankTeller - Phase 1)\trunk\Fdm.BankTeller.Main\obj\Release\Fdm.BankTeller.Main.ViewAccountForm.resources
+\\fdm-mail02\home\jason.carvalho\Documents\C-Sharp stuff\trunk (BankTeller - Phase 1)\trunk\Fdm.BankTeller.Main\obj\Release\GenerateResource.read.1.tlog
+\\fdm-mail02\home\jason.carvalho\Documents\C-Sharp stuff\trunk (BankTeller - Phase 1)\trunk\Fdm.BankTeller.Main\obj\Release\GenerateResource.write.1.tlog

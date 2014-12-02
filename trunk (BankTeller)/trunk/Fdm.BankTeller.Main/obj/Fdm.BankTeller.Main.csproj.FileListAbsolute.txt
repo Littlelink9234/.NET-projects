@@ -1,0 +1,5 @@
+C:\Lida Weng\academy-dotnet\bank-teller\phase1\trunk\Fdm.BankTeller.Main\bin\Debug\Fdm.BankTeller.Main.dll
+C:\Lida Weng\academy-dotnet\bank-teller\phase1\trunk\Fdm.BankTeller.Main\bin\Debug\Fdm.BankTeller.Main.pdb
+C:\Lida Weng\academy-dotnet\bank-teller\phase1\trunk\Fdm.BankTeller.Main\obj\Debug\ResolveAssemblyReference.cache
+C:\Lida Weng\academy-dotnet\bank-teller\phase1\trunk\Fdm.BankTeller.Main\obj\Debug\Fdm.BankTeller.Main.dll
+C:\Lida Weng\academy-dotnet\bank-teller\phase1\trunk\Fdm.BankTeller.Main\obj\Debug\Fdm.BankTeller.Main.pdb

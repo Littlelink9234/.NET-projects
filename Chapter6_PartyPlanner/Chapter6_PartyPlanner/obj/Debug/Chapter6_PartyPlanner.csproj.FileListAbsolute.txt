@@ -1,0 +1,9 @@
+c:\users\jason\documents\visual studio 2012\Projects\Chapter6_PartyPlanner\Chapter6_PartyPlanner\bin\Debug\Chapter6_PartyPlanner.exe.config
+C:\Users\Jason\Documents\Visual Studio 2012\Projects\Chapter6_PartyPlanner\Chapter6_PartyPlanner\bin\Debug\Chapter6_PartyPlanner.exe
+C:\Users\Jason\Documents\Visual Studio 2012\Projects\Chapter6_PartyPlanner\Chapter6_PartyPlanner\bin\Debug\Chapter6_PartyPlanner.pdb
+C:\Users\Jason\Documents\Visual Studio 2012\Projects\Chapter6_PartyPlanner\Chapter6_PartyPlanner\obj\Debug\Chapter6_PartyPlanner.csprojResolveAssemblyReference.cache
+C:\Users\Jason\Documents\Visual Studio 2012\Projects\Chapter6_PartyPlanner\Chapter6_PartyPlanner\obj\Debug\Chapter6_PartyPlanner.Form1.resources
+C:\Users\Jason\Documents\Visual Studio 2012\Projects\Chapter6_PartyPlanner\Chapter6_PartyPlanner\obj\Debug\Chapter6_PartyPlanner.Properties.Resources.resources
+C:\Users\Jason\Documents\Visual Studio 2012\Projects\Chapter6_PartyPlanner\Chapter6_PartyPlanner\obj\Debug\Chapter6_PartyPlanner.csproj.GenerateResource.Cache
+C:\Users\Jason\Documents\Visual Studio 2012\Projects\Chapter6_PartyPlanner\Chapter6_PartyPlanner\obj\Debug\Chapter6_PartyPlanner.exe
+C:\Users\Jason\Documents\Visual Studio 2012\Projects\Chapter6_PartyPlanner\Chapter6_PartyPlanner\obj\Debug\Chapter6_PartyPlanner.pdb

@@ -1,0 +1,18 @@
+\\fdm-mail02\home\jason.carvalho\Documents\C-Sharp stuff\trunk (BankTeller - Phase 1)\trunk\Fdm.BankTeller.Tests\bin\Debug\Fdm.BankTeller.Tests.dll
+\\fdm-mail02\home\jason.carvalho\Documents\C-Sharp stuff\trunk (BankTeller - Phase 1)\trunk\Fdm.BankTeller.Tests\bin\Debug\Fdm.BankTeller.Tests.pdb
+\\fdm-mail02\home\jason.carvalho\Documents\C-Sharp stuff\trunk (BankTeller - Phase 1)\trunk\Fdm.BankTeller.Tests\bin\Debug\nunit.framework.dll
+\\fdm-mail02\home\jason.carvalho\Documents\C-Sharp stuff\trunk (BankTeller - Phase 1)\trunk\Fdm.BankTeller.Tests\bin\Debug\Fdm.BankTeller.Main.pdb
+\\fdm-mail02\home\jason.carvalho\Documents\C-Sharp stuff\trunk (BankTeller - Phase 1)\trunk\Fdm.BankTeller.Tests\bin\Debug\nunit.framework.xml
+\\fdm-mail02\home\jason.carvalho\Documents\C-Sharp stuff\trunk (BankTeller - Phase 1)\trunk\Fdm.BankTeller.Tests\obj\Debug\ResolveAssemblyReference.cache
+\\fdm-mail02\home\jason.carvalho\Documents\C-Sharp stuff\trunk (BankTeller - Phase 1)\trunk\Fdm.BankTeller.Tests\obj\Debug\Fdm.BankTeller.Tests.dll
+\\fdm-mail02\home\jason.carvalho\Documents\C-Sharp stuff\trunk (BankTeller - Phase 1)\trunk\Fdm.BankTeller.Tests\obj\Debug\Fdm.BankTeller.Tests.pdb
+\\fdm-mail02\home\jason.carvalho\Documents\C-Sharp stuff\trunk (BankTeller - Phase 1)\trunk\Fdm.BankTeller.Tests\bin\Debug\Fdm.BankTeller.Main.exe
+C:\Users\Jason\Documents\FDM Group\trunk (BankTeller)\trunk\Fdm.BankTeller.Tests\bin\Debug\Fdm.BankTeller.Tests.dll
+C:\Users\Jason\Documents\FDM Group\trunk (BankTeller)\trunk\Fdm.BankTeller.Tests\bin\Debug\Fdm.BankTeller.Tests.pdb
+C:\Users\Jason\Documents\FDM Group\trunk (BankTeller)\trunk\Fdm.BankTeller.Tests\bin\Debug\Fdm.BankTeller.Main.exe
+C:\Users\Jason\Documents\FDM Group\trunk (BankTeller)\trunk\Fdm.BankTeller.Tests\bin\Debug\nunit.framework.dll
+C:\Users\Jason\Documents\FDM Group\trunk (BankTeller)\trunk\Fdm.BankTeller.Tests\bin\Debug\Fdm.BankTeller.Main.pdb
+C:\Users\Jason\Documents\FDM Group\trunk (BankTeller)\trunk\Fdm.BankTeller.Tests\bin\Debug\nunit.framework.xml
+C:\Users\Jason\Documents\FDM Group\trunk (BankTeller)\trunk\Fdm.BankTeller.Tests\obj\Debug\ResolveAssemblyReference.cache
+C:\Users\Jason\Documents\FDM Group\trunk (BankTeller)\trunk\Fdm.BankTeller.Tests\obj\Debug\Fdm.BankTeller.Tests.dll
+C:\Users\Jason\Documents\FDM Group\trunk (BankTeller)\trunk\Fdm.BankTeller.Tests\obj\Debug\Fdm.BankTeller.Tests.pdb

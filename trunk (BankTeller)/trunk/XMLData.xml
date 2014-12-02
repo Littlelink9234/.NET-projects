@@ -1,0 +1,59 @@
+﻿<?xml version="1.0" encoding="utf-8"?>
+<NewDataSet>
+  <xs:schema xmlns="" xmlns:xs="http://www.w3.org/2001/XMLSchema" xmlns:msdata="urn:schemas-microsoft-com:xml-msdata" id="NewDataSet">
+    <xs:element name="NewDataSet" msdata:IsDataSet="true" msdata:MainDataTable="Accounts" msdata:UseCurrentLocale="true">
+      <xs:complexType>
+        <xs:choice minOccurs="0" maxOccurs="unbounded">
+          <xs:element name="Account">
+            <xs:complexType>
+              <xs:sequence>
+                <xs:element name="Name" type="xs:string" />
+                <xs:element name="Balance">
+                  <xs:simpleType>
+                    <xs:restriction base="xs:decimal">
+                    </xs:restriction>
+                  </xs:simpleType>
+                </xs:element>
+                <xs:element name="AccountNumber" type="xs:int" />
+                <xs:element name="AccountType" type="xs:string" />
+                <xs:element name="Overdraft" type="xs:decimal" />
+              </xs:sequence>
+            </xs:complexType>
+          </xs:element>
+        </xs:choice>
+      </xs:complexType>
+      <xs:unique name="Constraint1" msdata:PrimaryKey="true">
+        <xs:selector xpath=".//Accounts" />
+        <xs:field xpath="AccountNumber" />
+      </xs:unique>
+    </xs:element>
+  </xs:schema>
+  <Account>
+    <Name>Jason</Name>
+    <Balance>1000.00</Balance>
+    <AccountNumber>1</AccountNumber>
+    <AccountType>Current</AccountType>
+    <Overdraft>100.00</Overdraft>
+  </Account>
+  <Account>
+    <Name>Srilatha</Name>
+    <Balance>500.00</Balance>
+    <AccountNumber>2</AccountNumber>
+    <AccountType>Savings</AccountType>
+    <Overdraft>0</Overdraft>
+  </Account>
+  <Account>
+    <AccountNumber>3</AccountNumber>
+    <Name>Steve</Name>
+    <Balance>2000</Balance>
+    <AccountType>Current</AccountType>
+    <Overdraft>250</Overdraft>
+  </Account>
+  <Account>
+    <AccountNumber>4</AccountNumber>
+    <Name>Dan</Name>
+    <Balance>10000</Balance>
+    <AccountType>Current</AccountType>
+    <Overdraft>1000</Overdraft>
+  </Account>
+</NewDataSet>

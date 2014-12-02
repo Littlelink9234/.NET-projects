@@ -1,0 +1,11 @@
+\\fdm-mail02\home\jason.carvalho\Documents\C-Sharp stuff\trunk (BankTeller - Phase 1)\trunk\Fdm.BankTeller.Main\bin\Debug\Fdm.BankTeller.Main.exe
+\\fdm-mail02\home\jason.carvalho\Documents\C-Sharp stuff\trunk (BankTeller - Phase 1)\trunk\Fdm.BankTeller.Main\bin\Debug\nunit.framework.dll
+\\fdm-mail02\home\jason.carvalho\Documents\C-Sharp stuff\trunk (BankTeller - Phase 1)\trunk\Fdm.BankTeller.Main\bin\Debug\nunit.framework.xml
+\\fdm-mail02\home\jason.carvalho\Documents\C-Sharp stuff\trunk (BankTeller - Phase 1)\trunk\Fdm.BankTeller.Main\obj\Debug\ResolveAssemblyReference.cache
+\\fdm-mail02\home\jason.carvalho\Documents\C-Sharp stuff\trunk (BankTeller - Phase 1)\trunk\Fdm.BankTeller.Main\obj\Debug\GenerateResource.read.1.tlog
+\\fdm-mail02\home\jason.carvalho\Documents\C-Sharp stuff\trunk (BankTeller - Phase 1)\trunk\Fdm.BankTeller.Main\obj\Debug\GenerateResource.write.1.tlog
+\\fdm-mail02\home\jason.carvalho\Documents\C-Sharp stuff\trunk (BankTeller - Phase 1)\trunk\Fdm.BankTeller.Main\obj\Debug\Fdm.BankTeller.Main.exe
+\\fdm-mail02\home\jason.carvalho\Documents\C-Sharp stuff\trunk (BankTeller - Phase 1)\trunk\Fdm.BankTeller.Main\obj\Debug\Fdm.BankTeller.Main.pdb
+\\fdm-mail02\home\jason.carvalho\Documents\C-Sharp stuff\trunk (BankTeller - Phase 1)\trunk\Fdm.BankTeller.Main\bin\Debug\Fdm.BankTeller.Main.pdb
+\\fdm-mail02\home\jason.carvalho\Documents\C-Sharp stuff\trunk (BankTeller - Phase 1)\trunk\Fdm.BankTeller.Main\obj\Debug\Fdm.BankTeller.Main.AccountZeroForm.resources
+\\fdm-mail02\home\jason.carvalho\Documents\C-Sharp stuff\trunk (BankTeller - Phase 1)\trunk\Fdm.BankTeller.Main\obj\Debug\Fdm.BankTeller.Main.BankForm.resources

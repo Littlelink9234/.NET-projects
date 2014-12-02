@@ -1,0 +1,26 @@
+﻿
+Microsoft Visual Studio Solution File, Format Version 11.00
+# Visual C# Express 2010
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "RoutePlanner.Main", "RoutePlanner\RoutePlanner.Main.csproj", "{749002ED-0D1A-46AC-A2F5-CF25C21C7E33}"
+EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "RoutePlanner.Tests", "RoutePlanner.Tests\RoutePlanner.Tests.csproj", "{412946FA-42DE-45E2-8249-551149F32C50}"
+EndProject
+Global
+	GlobalSection(SolutionConfigurationPlatforms) = preSolution
+		Debug|x86 = Debug|x86
+		Release|x86 = Release|x86
+	EndGlobalSection
+	GlobalSection(ProjectConfigurationPlatforms) = postSolution
+		{749002ED-0D1A-46AC-A2F5-CF25C21C7E33}.Debug|x86.ActiveCfg = Debug|x86
+		{749002ED-0D1A-46AC-A2F5-CF25C21C7E33}.Debug|x86.Build.0 = Debug|x86
+		{749002ED-0D1A-46AC-A2F5-CF25C21C7E33}.Release|x86.ActiveCfg = Release|x86
+		{749002ED-0D1A-46AC-A2F5-CF25C21C7E33}.Release|x86.Build.0 = Release|x86
+		{412946FA-42DE-45E2-8249-551149F32C50}.Debug|x86.ActiveCfg = Debug|x86
+		{412946FA-42DE-45E2-8249-551149F32C50}.Debug|x86.Build.0 = Debug|x86
+		{412946FA-42DE-45E2-8249-551149F32C50}.Release|x86.ActiveCfg = Release|x86
+		{412946FA-42DE-45E2-8249-551149F32C50}.Release|x86.Build.0 = Release|x86
+	EndGlobalSection
+	GlobalSection(SolutionProperties) = preSolution
+		HideSolutionNode = FALSE
+	EndGlobalSection
+EndGlobal

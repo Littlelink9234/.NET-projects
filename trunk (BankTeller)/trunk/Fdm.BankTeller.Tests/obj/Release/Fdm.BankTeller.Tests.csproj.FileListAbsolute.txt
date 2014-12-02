@@ -1,0 +1,9 @@
+\\fdm-mail02\home\jason.carvalho\Documents\C-Sharp stuff\trunk (BankTeller - Phase 1)\trunk\Fdm.BankTeller.Tests\bin\Release\Fdm.BankTeller.Tests.dll
+\\fdm-mail02\home\jason.carvalho\Documents\C-Sharp stuff\trunk (BankTeller - Phase 1)\trunk\Fdm.BankTeller.Tests\bin\Release\Fdm.BankTeller.Tests.pdb
+\\fdm-mail02\home\jason.carvalho\Documents\C-Sharp stuff\trunk (BankTeller - Phase 1)\trunk\Fdm.BankTeller.Tests\bin\Release\Fdm.BankTeller.Main.dll
+\\fdm-mail02\home\jason.carvalho\Documents\C-Sharp stuff\trunk (BankTeller - Phase 1)\trunk\Fdm.BankTeller.Tests\bin\Release\nunit.framework.dll
+\\fdm-mail02\home\jason.carvalho\Documents\C-Sharp stuff\trunk (BankTeller - Phase 1)\trunk\Fdm.BankTeller.Tests\bin\Release\Fdm.BankTeller.Main.pdb
+\\fdm-mail02\home\jason.carvalho\Documents\C-Sharp stuff\trunk (BankTeller - Phase 1)\trunk\Fdm.BankTeller.Tests\bin\Release\nunit.framework.xml
+\\fdm-mail02\home\jason.carvalho\Documents\C-Sharp stuff\trunk (BankTeller - Phase 1)\trunk\Fdm.BankTeller.Tests\obj\Release\ResolveAssemblyReference.cache
+\\fdm-mail02\home\jason.carvalho\Documents\C-Sharp stuff\trunk (BankTeller - Phase 1)\trunk\Fdm.BankTeller.Tests\obj\Release\Fdm.BankTeller.Tests.dll
+\\fdm-mail02\home\jason.carvalho\Documents\C-Sharp stuff\trunk (BankTeller - Phase 1)\trunk\Fdm.BankTeller.Tests\obj\Release\Fdm.BankTeller.Tests.pdb
